@@ -1,6 +1,7 @@
 //Abstarction
 abstract class Bike {
-    abstract void run();//method contains only body it doesnot contain any implementation 
+    abstract void run();//method contains only body it doesnot contain any implementation
+
 }
 class Honda extends Bike{
 
