@@ -1,3 +1,4 @@
+//we have created the static method in interface
 interface Drawable {
     void draw();
 
